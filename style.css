@@ -1,0 +1,17 @@
+.icons{
+    width: 30px;
+    height: 30px;
+    text-decoration: none;
+}
+.imageLink{
+    text-decoration: none;
+}
+.header-row{
+    font-weight: bold;
+}
+.no-border{
+    border:0px;
+}
+.profile-Pic{
+    width: 200px;
+}
